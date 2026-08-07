@@ -110,7 +110,7 @@ Experience the interactive Streamlit dashboard designed to transform churn predi
 # 🏗️ Solution Architecture
 
 <p align="center">
-<img src="assets/model-pipeline.png" width="95%">
+<img src="assets/output9.png" width="95%">
 </p>
 
 The solution follows an end-to-end machine learning workflow—from raw customer data ingestion to business-driven retention recommendations delivered through an interactive Streamlit dashboard.
