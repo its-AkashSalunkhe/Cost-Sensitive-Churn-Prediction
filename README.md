@@ -48,7 +48,8 @@ Experience the interactive Streamlit dashboard designed to transform churn predi
 ## 🏠 Executive Overview
 
 <p align="center">
-<img src="assets/overview.png" width="100%">
+<img src="assets/output1.png" width="100%">
+<img src="assets/output2.png" width="100%">
 </p>
 
 > Monitor customer churn rate, risk distribution, flagged customers, and total CLTV exposure through an executive-friendly dashboard.
@@ -58,57 +59,58 @@ Experience the interactive Streamlit dashboard designed to transform churn predi
 ## 🔍 Risk Explorer
 
 <p align="center">
-<img src="assets/risk-explorer.png" width="100%">
+<img src="assets/output6.png" width="100%">
+<img src="assets/output7.png" width="100%">
 </p>
 
 > Filter customers by risk level, contract type, and churn probability to generate targeted retention action lists.
 
 ---
 
-## 👤 Customer Scoring
-
-<p align="center">
-<img src="assets/customer-scoring.png" width="100%">
-</p>
-
-> Score individual customers, predict churn probability, assign risk segments, and support retention decisions.
-
----
-
 ## 💰 Business Impact Dashboard
 
 <p align="center">
-<img src="assets/business-impact.png" width="100%">
+<img src="assets/output3.png" width="100%">
 </p>
 
 > Compare intervention strategies, estimate financial exposure, optimize retention costs, and evaluate projected savings.
 
 ---
 
-## 📊 Data Quality Dashboard
+## 📊 Model Comparison
 
 <p align="center">
-<img src="assets/data-quality.png" width="100%">
+<img src="assets/output4.png" width="100%">
 </p>
 
-> Inspect missing values, dataset statistics, feature types, and data quality before model deployment.
+> Score individual models, predict churn probability, assign risk segments, and support retention decisions.
 
 ---
 
-## 🎥 Live Application Demo
+## 🚀 Threshold and Cost-Optimizer
 
 <p align="center">
-<img src="assets/demo.gif" width="100%">
+<img src="assets/output5.png" width="100%">
 </p>
 
-> A complete walkthrough of the interactive Streamlit application, including navigation across all dashboard pages.
+> Optimizes a ML classification threshold to balance missed churners against false alarms, minimizing total financial costs for the business.
+
+---
+
+## 🎥 Methodology
+
+<p align="center">
+<img src="assets/output8.png" width="100%">
+</p>
+
+> outlines the data preparation, modeling, and cost-focused evaluation strategy used to build and select the optimal churn prediction system.
 
 ---
 
 # 🏗️ Solution Architecture
 
 <p align="center">
-<img src="assets/model-pipeline.png" width="95%">
+<img src="assets/output9.png" width="95%">
 </p>
 
 The solution follows an end-to-end machine learning workflow—from raw customer data ingestion to business-driven retention recommendations delivered through an interactive Streamlit dashboard.
